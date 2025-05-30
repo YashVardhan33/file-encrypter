@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FileencryptionApplication<fileencryption>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "xa.sh.dev.fileencryption.FileencryptionApplication",
+            "projectName": "fileencryption",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
